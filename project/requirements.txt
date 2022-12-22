@@ -1,0 +1,8 @@
+check50==3.3.7
+cs50==9.2.2
+CS50-VSIX-Client @ file:///tmp/cs50.vsix/python-clients/cs50vsix-client
+DateTime==4.7
+numpy==1.23.5
+pandas==1.5.2
+pytest==7.2.0
+submit50==3.1.1
