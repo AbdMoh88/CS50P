@@ -1,6 +1,8 @@
 # Three USA cities Bike-Share Data Analysis
 
-### Video Demo:  <URL https://youtu.be/cVxzEO19HgE>
+### Project Dscription Video:  <https://youtu.be/cVxzEO19HgE>
+
+### Project Data Sets: <https://drive.google.com/drive/folders/1mLuZQdpCuxP_vPO0_v-uNkD1o2Kvu1uE?usp=sharing>
 
 ### Description:
 
@@ -12,7 +14,7 @@ Bike-Share system allows users to rent bike from one point and return it to anot
 #### Our Project:
 In this project, I will use data -already had from previous project- of a bike-share system provider for three major cities in USA, which are Chicago, New York, and Washington. I will use this data to analyse bike-share usage statistics between these three cities.
 
-#### Our Dataset:
+#### Our Data sets:
 Three files each of them with the name of one city of the three USA cities in .csv format is provided. Each file contains data of the first six months of 2017 for the specified city file. The three files contain Start Time, End Time, Trip Duration, Start Station, End Station, and User Type columns, while chicago and new_york files have additionally Gender and Birth Year columns.
 
 #### Project flow:
